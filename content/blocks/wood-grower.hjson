@@ -1,0 +1,24 @@
+type: GenericCrafter
+name: Wood Grower
+description: Grow wood.
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  power: 0.2
+  liquid: {
+  	  liquid: water
+  	  amount: 0.06
+  }
+}
+requirements: [
+  lead/15
+  copper/20
+  graphite/40
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: wood/1

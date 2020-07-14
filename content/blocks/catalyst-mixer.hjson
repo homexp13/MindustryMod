@@ -1,0 +1,29 @@
+type: genericCrafter
+size: 4
+health: 60
+category: crafting
+idleSound: respawning
+hasLiquids: true
+liquidCapacity : 12
+itemCapacity: 10
+craftTime: 60
+hasItems: true
+hasPower: true
+consumes: {
+  power: 0.1
+  items: {
+    items: [
+      sand/1
+      coal/1
+    ]
+  }
+  liquid: {
+  	  liquid: slag
+  	  amount: 0.017
+  }
+}
+requirements: [
+  lead/50
+  copper/80
+]
+outputItem: catalyst/2

@@ -1,0 +1,6 @@
+type: material
+name: Wood pulp
+description: pulp from wood.
+hardness: 2
+cost: 2
+color: 898989ff

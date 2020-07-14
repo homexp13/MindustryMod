@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: Coal acid maker
+description: Make coal acid.
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  power: 0.2
+  items: {
+    items: [
+      coal/4
+    ]
+  }
+  liquid: {
+  	  liquid: sulfuric-acid
+  	  amount: 0.06
+  }
+}
+requirements: [
+  lead/15
+  copper/20
+  graphite/40
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: {
+	liquid: coal-acid
+	amount: 8
+}

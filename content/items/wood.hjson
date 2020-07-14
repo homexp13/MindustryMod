@@ -1,0 +1,6 @@
+type: material
+name: Wood
+description: wood from wood.
+hardness: 2
+cost: 2
+color: 7c5700ff

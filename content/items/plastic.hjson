@@ -1,0 +1,6 @@
+type: material
+name: Plastic
+description: poly-material.
+hardness: 2
+cost: 2
+color: bbbbbbff
