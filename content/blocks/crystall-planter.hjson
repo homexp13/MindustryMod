@@ -1,0 +1,28 @@
+type: GenericSmelter
+size: 4
+health: 240
+category: crafting
+idleSound: machine
+craftEffect: formsmoke
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 230
+consumes: {
+	items: {
+		items: [
+			titanium/3
+			sand/3
+         metaglass/3
+		]
+	}
+	power: 0.5
+}
+outputItem: crystall/1
+requirements: [
+	copper/45
+	graphite/50
+	lead/40
+   thorium/20
+]

@@ -1,0 +1,25 @@
+type: GenericSmelter
+name: Scrap Smelter
+description: Make scrap using dark and lead like catalyst.
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 300
+consumes: {
+  power: 0.4
+  items: {
+    items: [
+      dark/10
+      lead/1
+    ]
+  }
+}
+requirements: [
+  lead/50
+  copper/80
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: scrap/10

@@ -1,0 +1,33 @@
+type: genericCrafter
+name: CPL-Crystalizer
+size: 4
+health: 100
+category: crafting
+hasPower: true
+hasLiquids: true
+hasItems: true
+liquidCapacity: 24
+itemCapacity: 16
+craftTime: 10
+consumes: {
+	items: {
+		items: [
+			crystall/2
+		]
+	}
+	liquid: {
+      liquid: CleanPlastLiquid
+      amount: 1.0
+	}
+	power: 1
+}
+outputLiquid: {
+	liquid: CrystallPlastLiquid
+	amount: 1
+}
+requirements: [
+	thorium/100
+	titanium/115
+	graphite/120
+	plastanium/125
+]

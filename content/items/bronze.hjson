@@ -1,0 +1,6 @@
+type: material
+name: Bronze
+description: it's Bronze.
+hardness: 2
+cost: 2
+color: bcbcbcff

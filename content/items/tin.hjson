@@ -1,0 +1,6 @@
+type: material
+name: Tin
+description: it's tin.
+hardness: 2
+cost: 2
+color: bcbcbcff

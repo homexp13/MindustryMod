@@ -1,0 +1,6 @@
+type: material
+name: Nefrit
+description: rare material
+hardness: 2
+cost: 2
+color: 00FF00

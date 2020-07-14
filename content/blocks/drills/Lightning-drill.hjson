@@ -1,0 +1,27 @@
+type: Drill
+size: 2
+category: production
+tier: 6
+drillTime: 30
+drawMineItem: false
+health: 800
+consumes:   {
+                    liquid:  {
+                         liquid: water
+                         amount: 1.0
+                         booster: true
+                         optional: true
+                   }
+                    power: 1.0
+}
+requirements:    [
+                 copper/200
+                 lead/330
+                 titanium/130
+                 silicon/100
+                 metaglass/50
+                 plastanium/10
+                 nefrit/5
+                 tin/20
+                 thorium/140
+]

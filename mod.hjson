@@ -1,0 +1,6 @@
+name: "simple-mod"
+displayName: "[orange]homexp13's[gold] Mod" //what displays in the mod selection menu
+author: "Homexp13"
+description: "My mod"
+version: "0.1"
+minGameVersion: "103"

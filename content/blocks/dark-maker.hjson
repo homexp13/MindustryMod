@@ -1,0 +1,23 @@
+type: genericCrafter
+size: 2
+health: 60
+category: crafting
+idleSound: respawning
+itemCapacity: 10
+craftTime: 60
+hasItems: true
+hasPower: true
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      copper/2
+      coal/1
+    ]
+  }
+}
+requirements: [
+  lead/50
+  copper/80
+]
+outputItem: dark/2
