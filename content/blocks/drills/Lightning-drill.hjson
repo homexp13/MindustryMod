@@ -1,8 +1,8 @@
 type: Drill
-size: 2
+size: 4
 category: production
 tier: 6
-drillTime: 30
+drillTime: 5
 drawMineItem: false
 health: 800
 consumes:   {
@@ -21,7 +21,7 @@ requirements:    [
                  silicon/100
                  metaglass/50
                  plastanium/10
-                 nefrit/5
+                 nefrit/50
                  tin/20
                  thorium/140
 ]
