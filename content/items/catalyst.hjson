@@ -1,0 +1,6 @@
+type: material
+name: Catalyst
+description: Need for Metals.
+hardness: 2
+cost: 2
+color: 8a5300ff

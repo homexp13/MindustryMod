@@ -1,0 +1,6 @@
+type: material
+name: Dark
+description: Simple metal mix.
+hardness: 2
+cost: 2
+color: 606060ff

@@ -1,0 +1,6 @@
+name: CleanPlastaniumLiquid
+viscosity: 0.10
+heatCapacity: 0.6
+effect: freezing
+color: A4C639
+lightColor: A4C639
