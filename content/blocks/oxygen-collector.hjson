@@ -1,0 +1,23 @@
+type: genericCrafter
+name: Oxygen collector
+size: 6
+health: 60
+category: crafting
+idleSound: respawning
+hasLiquids: true
+liquidCapacity : 32
+itemCapacity: 12
+craftTime: 120
+hasItems: true
+hasPower: true
+consumes: {
+  power: 1
+}
+requirements: [
+  lead/50
+  bronze/20
+]
+outputLiquid: {
+	liquid: oxygen
+	amount: 32
+}

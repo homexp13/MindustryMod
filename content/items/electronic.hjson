@@ -1,0 +1,6 @@
+type: material
+name: Electronic
+description: simple electronic board.
+hardness: 2
+cost: 2
+color: 467900FF

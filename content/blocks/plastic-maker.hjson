@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Plastic maker
+description: Make plastic.
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  power: 0.2
+  items: {
+    items: [
+      wood-pulp/1
+    ]
+  }
+  liquid: {
+  	  liquid: oxygen
+  	  amount: 0.033
+  }
+}
+requirements: [
+  lead/15
+  copper/20
+  graphite/40
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: plastic/1

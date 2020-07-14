@@ -1,0 +1,27 @@
+type: genericCrafter
+size: 6
+health: 60
+category: crafting
+idleSound: respawning
+hasLiquids: true
+liquidCapacity : 24
+itemCapacity: 12
+craftTime: 60
+hasItems: true
+hasPower: true
+consumes: {
+  power: 1
+  liquid: {
+  	  liquid: oil
+  	  amount: 0.4
+  }
+}
+requirements: [
+  lead/50
+  bronze/20
+]
+outputLiquid: {
+	liquid: naphta
+	amount: 24
+}
+outputItem: sulfur/12

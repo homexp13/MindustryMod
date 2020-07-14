@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: Bronze Smelter
+description: Make bronze.
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 240
+consumes: {
+  power: 0.2
+  items: {
+    items: [
+      tin/2
+      copper/6
+    ]
+  }
+  liquid: {
+  	  liquid: water
+  	  amount: 0.03
+  }
+}
+requirements: [
+  lead/15
+  copper/20
+  graphite/40
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: bronze/8

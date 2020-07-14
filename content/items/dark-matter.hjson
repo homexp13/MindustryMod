@@ -1,0 +1,6 @@
+type: material
+name: Dark matter
+description: material ot fur darkness.
+hardness: 20
+cost: 2
+color: 000000ff
