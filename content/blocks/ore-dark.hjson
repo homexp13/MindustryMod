@@ -1,5 +1,0 @@
-type: OreBlock
-itemDrop: dark
-oreDefault: true
-oreScale: 60
-oreThreshold: 0.882
