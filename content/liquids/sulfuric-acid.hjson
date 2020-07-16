@@ -1,2 +1,4 @@
 name: Sulfuric acid
 color: eaff00ff
+heatCapacity: 0
+temperature: 1

@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: Gas Maker
+description: Make gas.
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 60
+consumes: {
+  power: 0.3
+  liquid: {
+		liquid: naphta
+		amount: 0.1
+	}
+}
+requirements: [
+  lead/15
+  bronze/20
+  graphite/40
+  electronic/40
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: {
+	liquid: gas
+	amount: 8
+}

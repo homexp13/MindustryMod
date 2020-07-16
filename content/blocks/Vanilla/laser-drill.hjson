@@ -1,0 +1,7 @@
+requirements: [
+	bronze/35
+	graphite/30
+	titanium/20
+	silicon/30
+	electronic/20
+]

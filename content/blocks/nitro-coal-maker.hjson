@@ -1,0 +1,29 @@
+type: genericCrafter
+size: 2
+health: 200
+category: crafting
+hasPower: true
+hasItems: true
+hasLiquids: true
+liquidCapacity: 200
+craftTime: 60
+consumes: {
+	items: {
+		items: [
+			coal/1
+			sulfur/1
+		]
+	}
+	liquid: {
+		liquid: gas
+		amount: 0.017
+	}
+	power: 0.05
+}
+outputItem: nitro-coal/2
+requirements: [
+	titanium/100
+	graphite/70
+	lead/105
+	bronze/70
+]
