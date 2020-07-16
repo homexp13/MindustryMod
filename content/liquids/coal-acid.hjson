@@ -1,2 +1,4 @@
 name: Coal acid
 color:373737ff
+heatCapacity: 0
+temperature: 1

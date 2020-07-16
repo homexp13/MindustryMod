@@ -1,0 +1,23 @@
+type: GenericSmelter
+name: Electronic silicon smelter
+description: Coal free way to make Si.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 40
+consumes: {
+  power: 5
+  items: {
+    items: [
+      sand/1
+    ]
+  }
+}
+requirements: [
+  bronze/45
+  electronic/20
+  graphite/40
+  titanium/20
+]
+category: crafting
+outputItem: silicon/1

@@ -1,0 +1,19 @@
+consumes: {
+  power: 3
+  items: {
+    items: [
+      titanium/1
+    ]
+  }
+  liquid: {
+  	  liquid: gas
+  	  amount: 0.25
+  }
+}
+requirements: [
+  bronze/80
+  titanium/80
+  graphite/60
+  silicon/80
+  electronic/30
+]
