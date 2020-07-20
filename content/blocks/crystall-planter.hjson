@@ -12,17 +12,21 @@ craftTime: 230
 consumes: {
 	items: {
 		items: [
-			titanium/3
-			sand/3
-         metaglass/3
+			titanium/1
+			sand/1
+         metaglass/1
 		]
 	}
-	power: 0.5
+	liquid: {
+  	  liquid: gas
+  	  amount: 0.30
+    }
+	power: 5
 }
 outputItem: crystall/1
 requirements: [
 	copper/45
 	graphite/50
 	lead/40
-   thorium/20
+    thorium/20
 ]

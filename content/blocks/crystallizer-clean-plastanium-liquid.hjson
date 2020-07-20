@@ -8,22 +8,22 @@ hasLiquids: true
 hasItems: true
 liquidCapacity: 24
 itemCapacity: 16
-craftTime: 10
+craftTime: 60
 consumes: {
 	items: {
 		items: [
-			crystall/2
+			crystall/1
 		]
 	}
 	liquid: {
       liquid: CleanPlastLiquid
-      amount: 1.0
+      amount: 0.016
 	}
 	power: 1
 }
 outputLiquid: {
 	liquid: CrystallPlastLiquid
-	amount: 1
+	amount: 2
 }
 requirements: [
 	thorium/100

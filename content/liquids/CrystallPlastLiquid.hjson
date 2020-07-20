@@ -1,6 +1,6 @@
 name: CrystallPlastaniumLiquid
 viscosity: 0.10
-heatCapacity: 0.6
+heatCapacity: 4
 effect: freezing
 color: C9FFE5
 lightColor: C9FFE5

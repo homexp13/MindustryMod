@@ -18,13 +18,13 @@ consumes: {
 	}
 	liquid: {
       liquid: cryofluid
-      amount: 0.5
+      amount: 0.016
 	}
 	power: 3
 }
 outputLiquid: {
 	liquid: PollPlastLiquid
-	amount: 1
+	amount: 8
 }
 requirements: [
 	copper/100
