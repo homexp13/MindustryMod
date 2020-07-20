@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: Plastic
 description: poly-material.
 hardness: 2

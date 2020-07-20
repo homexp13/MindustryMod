@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: Dark
 description: Simple metal mix.
 hardness: 2
