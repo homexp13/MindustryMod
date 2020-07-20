@@ -19,7 +19,7 @@ consumes: {
 	}
 	liquid: {
   	  liquid: gas
-  	  amount: 0.30
+  	  amount: 0.08
     }
 	power: 5
 }
