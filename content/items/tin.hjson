@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: Tin
 description: it's tin.
 hardness: 2

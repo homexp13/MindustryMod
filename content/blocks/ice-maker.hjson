@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: Ice maker
+description: Make ice.
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 10
+consumes: {
+  power: 1
+  liquid: {
+  	  liquid: water
+  	  amount: 0.1
+  }
+}
+requirements: [
+  lead/15
+  bronze/20
+  graphite/40
+  silicon/40
+]
+category: crafting
+outputItem: ice/1
