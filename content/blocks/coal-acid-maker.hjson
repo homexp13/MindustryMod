@@ -22,6 +22,7 @@ requirements: [
   lead/15
   copper/20
   graphite/40
+  metaglass/40
 ]
 category: crafting
 idleSound: respawning

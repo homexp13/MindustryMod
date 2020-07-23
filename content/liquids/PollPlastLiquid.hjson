@@ -4,3 +4,4 @@ heatCapacity: 0.6
 effect: freezing
 color: 665D1E
 lightColor: 665D1E
+temperature: 1

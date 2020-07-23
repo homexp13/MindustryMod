@@ -19,6 +19,7 @@ consumes: {
 requirements: [
   lead/50
   bronze/20
+  metaglass/50
 ]
 outputLiquid: {
 	liquid: naphta

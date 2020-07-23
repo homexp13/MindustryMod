@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: Wood pulp
 description: pulp from wood.
 hardness: 2

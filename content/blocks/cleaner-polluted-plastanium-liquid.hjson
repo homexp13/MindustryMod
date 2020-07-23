@@ -8,24 +8,25 @@ hasLiquids: true
 hasItems: true
 liquidCapacity: 24
 itemCapacity: 16
-craftTime: 10
+craftTime: 60
 consumes: {
 	items: {
 		items: [
-			titanium/2
-			metaglass/3
+			titanium/1
+			metaglass/1
 		]
 	}
 	liquid: {
       liquid: PollPlastLiquid
-      amount: 0.1
+      amount: 0.01666666666
 	}
 	power: 4
 }
 outputLiquid: {
 	liquid: CleanPlastLiquid
-	amount: 3
+	amount: 1
 }
+outputItem: scrap/2
 requirements: [
 	copper/100
 	titanium/115

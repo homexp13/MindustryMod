@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: Wood
 description: wood from wood.
 hardness: 2
