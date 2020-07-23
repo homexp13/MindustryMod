@@ -14,8 +14,7 @@ consumes: {
   items: {
     items: [
       titanium/3
-      sand/3
-      thorium/3
+	  phase-fabric/1
       crystall/3
     ]
   }
@@ -26,7 +25,7 @@ consumes: {
 }
 requirements: [
   thorium/80
-  tin/10
+  electronic/10
   bronze/80
 ]
 outputItem: nefrit/2
