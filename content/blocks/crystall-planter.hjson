@@ -14,7 +14,7 @@ consumes: {
 		items: [
 			titanium/1
 			sand/1
-         metaglass/1
+            metaglass/1
 		]
 	}
 	liquid: {
@@ -23,7 +23,7 @@ consumes: {
     }
 	power: 5
 }
-outputItem: crystall/1
+outputItem: crystall/3
 requirements: [
 	copper/45
 	graphite/50

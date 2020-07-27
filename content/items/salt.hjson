@@ -1,0 +1,4 @@
+type: resource
+name: Salt
+description: it's salt.
+color: ffffffff

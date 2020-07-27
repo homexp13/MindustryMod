@@ -1,0 +1,25 @@
+type: GenericSmelter
+name: Solder Smelter
+description: Make solder.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 60
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      tin/2
+      antimony/1
+    ]
+  }
+}
+requirements: [
+  titanium/45
+  bronze/20
+  steel/60
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: solder/3
