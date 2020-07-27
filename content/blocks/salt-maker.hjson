@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Salt Maker
+description: Make salt.
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 720
+consumes: {
+  power: 2
+  items: {
+    items: [
+      catalyst/2
+    ]
+  }
+  liquid: {
+  	  liquid: water
+  	  amount: 1
+  }
+}
+requirements: [
+  graphite/20
+  steel/60
+  plastanium/40
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: salt/1

@@ -1,0 +1,7 @@
+requirements: [
+	bronze/70
+	steel/30
+	metaglass/50
+	silicon/20
+	titanium/35
+]

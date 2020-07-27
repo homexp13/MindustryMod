@@ -14,8 +14,8 @@ consumes: {
   power: 1
 }
 requirements: [
-  lead/50
-  bronze/20
+  steel/80
+  bronze/120
 ]
 outputLiquid: {
 	liquid: oxygen

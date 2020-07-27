@@ -20,7 +20,7 @@ consumes: {
   }
   liquid: {
   	  liquid: CrystallPlastLiquid
-  	  amount: 20.0
+  	  amount: 0.1
   }
 }
 requirements: [

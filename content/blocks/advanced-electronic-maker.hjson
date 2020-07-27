@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: Advanced electronic maker
+description: Make advanced electronic.
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  power: 2
+  items: {
+    items: [
+      electronic/1
+      solder/3
+	  silicon/1
+    ]
+  }
+  liquid: {
+  	  liquid: pentane
+  	  amount: 0.1
+  }
+}
+requirements: [
+  plastanium/15
+  bronze/100
+  graphite/40
+  silicon/100
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: advanced-electronic/1
