@@ -11,7 +11,7 @@ consumes: {
   items: {
     items: [
       electronic/1
-      solder/3
+      solder/1
 	  silicon/1
     ]
   }

@@ -20,8 +20,6 @@ requirements: [
   steel/300
   bronze/200
   metaglass/250
-  graphite/10
-  copper/10
 ]
 outputLiquid: {
 	liquid: naphta
