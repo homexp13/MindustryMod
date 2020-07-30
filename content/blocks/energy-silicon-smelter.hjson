@@ -17,7 +17,7 @@ requirements: [
   bronze/45
   electronic/20
   graphite/40
-  titanium/20
+  plastanium/20
 ]
 category: crafting
 outputItem: silicon/1
