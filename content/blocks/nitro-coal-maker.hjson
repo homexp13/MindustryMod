@@ -4,6 +4,8 @@ health: 200
 category: crafting
 hasPower: true
 hasItems: true
+hasLiquids: true
+liquidCapacity: 200
 craftTime: 60
 consumes: {
 	items: {
@@ -11,6 +13,10 @@ consumes: {
 			coal/1
 			sulfur/1
 		]
+	}
+	liquid: {
+		liquid: gas
+		amount: 0.017
 	}
 	power: 0.05
 }
